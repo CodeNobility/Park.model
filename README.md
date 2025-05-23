@@ -1,5 +1,5 @@
-````markdown
-# 🚗 Bengaluru Smart Parking Availability Predictor 🛵
+
+ 🚗 Bengaluru Smart Parking Availability Predictor 🛵
 
 This Streamlit web application predicts the availability of **4-wheeler** and **2-wheeler** parking slots across major Bengaluru locations using machine learning models trained on historical data.
 
@@ -48,7 +48,7 @@ All categorical features are label-encoded, and numeric features are scaled usin
    ```bash
    git clone https://github.com/your-username/bangalore-parking-predictor.git
    cd bangalore-parking-predictor
-````
+
 
 2. **Install dependencies**
 
